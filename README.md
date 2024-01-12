@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArthurYangCN
-- 👀 I’m interested in Java
+- 👀 I’m interested in Java and hot girls
 - 🌱 I’m currently learning Probability Theory
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 📫 How to reach me shihuayang02@gmail.com
