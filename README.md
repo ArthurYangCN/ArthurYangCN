@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArthurYangCN
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Probability Theory
+- 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 📫 How to reach me shihuayang02@gmail.com
 
 <!---
